@@ -1,0 +1,102 @@
+
+
+.mynavigationbar {
+    background: transparent linear-gradient(133deg, #930A45 0%, #740E7F 11%, #740E7F 14%, #491553 22%, #1D1D26 45%, #1D1D26 74%, #141B69 100%) 0% 0% no-repeat padding-box;
+}
+
+body {
+    background: transparent linear-gradient(133deg, #930A45 0%, #740E7F 11%, #740E7F 14%, #491553 22%, #1D1D26 45%, #1D1D26 74%, #141B69 100%) 0% 0% no-repeat padding-box;
+}
+
+.nav-item {
+    color: white;
+}
+
+.nav-item:hover {
+    background-color: red
+}
+
+.navbaritems {
+    float: right;
+}
+
+.pancake {
+
+    font: normal normal 600 16px/18px Poppins;
+    letter-spacing: 0px;
+   
+    border-radius: 54px;
+    height:45px;
+    
+    color: #F3F4F8;
+    opacity: 1;
+    background-color: #141B69;
+
+}
+.pancake:hover{
+  
+    font: normal normal 600 16px/18px Poppins;
+    letter-spacing: 0px;
+    color: #F3F4F8;
+    opacity: 1;
+
+    color:red
+
+}
+
+.whitepaper {
+
+    font: normal normal 600 16px/18px Poppins;
+    letter-spacing: 0px;
+   
+    border-radius: 54px;
+    height:45px;
+    
+    color: black;
+    opacity: 1;
+    
+
+}
+.myfooter
+{
+    background:transparent linear-gradient(133deg, #930A45 0%, #740E7F 11%, #740E7F 14%, #491553 22%, #1D1D26 45%, #1D1D26 74%, #141B69 100%) 0% 0% no-repeat padding-box;
+}
+.main 
+{
+    margin-left: 0%;
+}
+@media only screen and (max-width:767px) {
+    body {
+        overflow-x: hidden !important
+    }
+
+}
+@media only screen and (max-width:600px )    {
+    .trail {
+       /* /* justify-content: center; */
+        margin-left: 140px;
+     
+
+        
+    }
+    .trail1 {
+        /* /* justify-content: center; */
+         margin-left: 120px;
+         width: 300px;
+      
+ 
+         
+     }
+
+}
+
+@media only screen and (max-width:600px) {
+    .responsive {
+        display: block;
+        /* align-items: center; */
+        text-align: center;
+        
+
+    }
+
+}
